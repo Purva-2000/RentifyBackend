@@ -1,0 +1,6 @@
+@RentifyBackend_HostAddress = http://localhost:5052
+
+GET {{RentifyBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
